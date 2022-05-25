@@ -9,4 +9,4 @@ if aterms <= 0:
 else:
    print("Fibonacci sequence:")
    for i in range(aterms):
-       print(recur_fibo(i))
+    
